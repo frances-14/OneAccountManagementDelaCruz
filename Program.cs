@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Account Management System");
 
-            string usn = "username1234";
-            string pw = "user123";
+            string usn = "user123";
+            string pw = "user1234";
 
             Console.WriteLine("Enter Username: ");
             string usnInput = Console.ReadLine();
